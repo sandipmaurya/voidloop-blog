@@ -24,4 +24,4 @@ Click here-https://www.microchip.com/en-us/development-tools-tools-and-software/
 
 Click here to watch in details
 
-<iframe src="https://www.youtube.com/embed/_D4akH2scuE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_D4akH2scuE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
