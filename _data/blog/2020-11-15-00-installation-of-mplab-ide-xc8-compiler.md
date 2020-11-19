@@ -6,6 +6,6 @@ title: 00 Installation of MPLAB IDE & XC8 Compiler
 metaDescription: >-
   Download and  install latest version of MPLAB IDE and Installation XC8
   compiler 
-thumbnail: /assets/MPLAB.jpg
+thumbnail: /assets/00MPLAB.jpg
 ---
 kkcfsngusdxnauudxnuguufziouay8uy Acviu oiaicdfgh sasd
