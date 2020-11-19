@@ -21,3 +21,14 @@ In the top menu bar click Production>>Set Configuration Bits as shown down below
 ![Production](/assets/2.png)
 
 ![Set bit Config](/assets/3.PNG)
+
+   The features controlled by configuration bits are:
+
+1. Oscillator Selection Bits
+2. Watchdog Timer Enable Bits
+3. Power-up Timer Enable Bits
+4. Brown-out Reset Enable Bits
+5. Low-Voltage (Single-Supply)
+6. Data [](https://microcontrollerslab.com/eeprom-working-interfacing-with-microcontroller/)EEPROMCode Protection Bit
+7. Flash Program Memory Write Enable Bit
+8. Flash Program Memory Code Protection Bit
