@@ -8,4 +8,4 @@ metaDescription: >-
   compiler 
 thumbnail: /assets/00MPLAB.jpg
 ---
-sddfgdfgfg
+# MPLAB installation
