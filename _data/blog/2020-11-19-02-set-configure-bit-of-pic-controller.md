@@ -22,7 +22,13 @@ In the top menu bar click Production>>Set Configuration Bits as shown down below
 
 ![Set bit Config](/assets/3.PNG)
 
-   The features controlled by configuration bits are:
+![generate code](/assets/4.PNG)
+
+   
+
+![Generated Code](/assets/5.PNG)
+
+The features controlled by configuration bits are:
 
 1. Oscillator Selection Bits
 2. Watchdog Timer Enable Bits
