@@ -9,3 +9,7 @@ metaDescription: >-
 thumbnail: /assets/00MPLAB.jpg
 ---
 # MPLAB installation
+
+Download MPLAB X IDE and Install it.
+
+https://www.microchip.com/mplab/mplab-x-ide
