@@ -18,4 +18,4 @@ Download compiler XC8 and Install it.
 
 Click here-https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers
 
-![Install ins](/assets/rxl7hOo63K.gif)
+![Install ins](/assets/xc8.gif)
