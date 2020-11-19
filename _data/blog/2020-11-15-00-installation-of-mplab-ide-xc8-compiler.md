@@ -12,4 +12,8 @@ thumbnail: /assets/00MPLAB.jpg
 
 Download MPLAB X IDE and Install it.
 
-https://www.microchip.com/mplab/mplab-x-ide
+Click here- https://www.microchip.com/mplab/mplab-x-ide
+
+Download compiler XC8 and Install it.
+
+Click here-https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers
